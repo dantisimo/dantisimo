@@ -74,7 +74,7 @@ AI-powered waste management system using the **Gemini API**, developed during th
 ## 📫 Get in touch
 
 [![Email](https://img.shields.io/badge/Email-dante.garcia@udem.edu-0078D4?style=flat&logo=microsoftoutlook&logoColor=white)](mailto:dante.garcia@udem.edu)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white)]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/dante-antonio-garc%C3%ADa-rosales-5154832b1/))
 
 ---
 
