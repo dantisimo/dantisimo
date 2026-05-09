@@ -53,8 +53,8 @@ AI-powered waste management system using the **Gemini API**, developed during th
 |---|---|---|---|
 | MSc Mechatronics Engineering — Erasmus Mundus (EU4M) | U. de Oviedo 🇪🇸 + HKA 🇩🇪 | 2026–2028 | Full EMJM Scholarship |
 | BEng Mechatronics Engineering | Universidad de Monterrey (UDEM) | 2020–2025 | 98% · Cum Laude |
-| Exchange Semester | Hochschule Karlsruhe (HKA) | 2024 | 95% |
-| Short Term Researcher | U. of Michigan SURE 🇺🇸 | 2025 | - |
+| Short Term Researcher | U. of Michigan SURE 🇺🇸 | 2025 | Aerospace Eng. ✈️ |
+| Exchange Semester | Hochschule Karlsruhe (HKA) 🇩🇪 | 2024 | 95% |
 
 **🏅 Ceneval EGEL+ IMecatro — Outstanding Performance (Desempeño Sobresaliente)**
 
