@@ -3,6 +3,7 @@
 **Mechatronics Engineer** from Monterrey, México 🇲🇽 · Starting an **EU4M Erasmus Mundus MSc** @ Universidad de Oviedo 🇪🇸 & Hochschule Karlsruhe 🇩🇪 (Sept 2026)
 
 I build things at the intersection of **robotics**, **embedded systems**, **Digital Twins**, and **AR/VR**. I thrive in international, multidisciplinary teams and am always looking for ways to apply technology to meaningful problems.
+*I seek a Masters and PhD to work in R&D and make meaningful contributions to society.*
 
 ---
 
@@ -71,5 +72,3 @@ AI-powered waste management system using the **Gemini API**, developed during th
 
 
 ---
-
-*"I seek a Masters and PhD to work in R&D and make meaningful contributions to society."*
